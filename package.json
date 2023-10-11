@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pdf-parse": "^1.1.1",
+    "pdf2json": "^3.0.4",
+    "pdfkit": "^0.13.0",
+    "txt-file-to-json": "^3.0.6",
+    "xml2js": "^0.6.2"
+  }
+}

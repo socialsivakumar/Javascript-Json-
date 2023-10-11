@@ -1,0 +1,5 @@
+In this program, an array called myArray is created with some initial values.
+ The shift() method is then used to remove the first element from the array. 
+ The removed element is stored in the variable firstElement and the resulting 
+ array is logged to the console. The shift() method returns the removed element, 
+which can be stored and used elsewhere in the program.

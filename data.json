@@ -1,0 +1,3633 @@
+{
+    "document":[
+    {
+      "pageCount": "1",
+      "pageCountWithOCRPerformed": "0",
+      "page": [
+        {
+          "index": "0",
+          "width": "595.419982910156",
+          "height": "841.690002441406",
+          "OCRWasPerformed": "False",
+          "row": [
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "12.0",
+                    "fontStyle": "Bold",
+                    "x": "144.60",
+                    "y": "52.20",
+                    "width": "184.15",
+                    "height": "12.00",
+                    "text": "Global Infotech Communiication",
+                    "meta": {
+                      "text": {
+                        "style": "h2",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "70.42",
+                    "width": "88.19",
+                    "height": "7.99",
+                    "text": "B 201, Gem Nirmalayam,",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "80.78",
+                    "width": "133.28",
+                    "height": "7.99",
+                    "text": "VG Roa Nagar, EB Colony, Ganapathy",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "90.00",
+                    "width": "114.54",
+                    "height": "7.99",
+                    "text": "Coimbatore Tamil Nadu 641006",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "99.23",
+                    "width": "17.63",
+                    "height": "7.99",
+                    "text": "India",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "108.45",
+                    "width": "95.22",
+                    "height": "7.99",
+                    "text": "GSTIN 33AKHPL2419H1ZE",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "144.60",
+                    "y": "117.67",
+                    "width": "45.06",
+                    "height": "7.99",
+                    "text": "9790508707",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "14.0",
+                    "x": "478.43",
+                    "y": "108.30",
+                    "width": "83.67",
+                    "height": "13.99",
+                    "text": "TAX INVOICE",
+                    "meta": {
+                      "text": {
+                        "style": "title",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "44.10",
+                    "y": "131.40",
+                    "width": "57.05",
+                    "height": "7.99",
+                    "text": "Invoice Number",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "167.79",
+                    "y": "130.65",
+                    "width": "71.51",
+                    "height": "7.99",
+                    "text": ": GIC/23-24/00006",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "307.24",
+                    "y": "131.40",
+                    "width": "56.78",
+                    "height": "7.99",
+                    "text": "Place Of Supply",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "430.93",
+                    "y": "130.65",
+                    "width": "67.29",
+                    "height": "7.99",
+                    "text": ": Tamil Nadu (33)",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "44.10",
+                    "y": "142.35",
+                    "width": "45.06",
+                    "height": "7.99",
+                    "text": "Invoice Date",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "167.79",
+                    "y": "141.60",
+                    "width": "50.95",
+                    "height": "7.99",
+                    "text": ": 29/04/2023",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "44.10",
+                    "y": "153.30",
+                    "width": "22.51",
+                    "height": "7.99",
+                    "text": "Terms",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "167.79",
+                    "y": "152.55",
+                    "width": "65.65",
+                    "height": "7.99",
+                    "text": ": Due on Receipt",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "44.10",
+                    "y": "164.25",
+                    "width": "34.14",
+                    "height": "7.99",
+                    "text": "Due Date",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "167.79",
+                    "y": "163.50",
+                    "width": "50.95",
+                    "height": "7.99",
+                    "text": ": 29/04/2023",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "color": "#333333",
+                    "x": "44.10",
+                    "y": "183.07",
+                    "width": "24.40",
+                    "height": "7.99",
+                    "text": "Bill To",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "color": "#333333",
+                    "x": "307.24",
+                    "y": "183.07",
+                    "width": "28.16",
+                    "height": "7.99",
+                    "text": "Ship To",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "9.0",
+                    "fontStyle": "Bold",
+                    "x": "44.10",
+                    "y": "198.04",
+                    "width": "156.68",
+                    "height": "9.00",
+                    "text": "Synozon Technology Private Limited",
+                    "meta": {
+                      "text": {
+                        "style": "h4",
+                        "type": "text",
+                        "subTypes": [
+                          "companyName"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "307.24",
+                    "y": "198.79",
+                    "width": "94.47",
+                    "height": "7.99",
+                    "text": "GSTIN 33ABCCS2113A1Z9",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "210.41",
+                    "width": "93.57",
+                    "height": "7.99",
+                    "text": "No. 30, Visweswara Nagar",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "221.66",
+                    "width": "127.89",
+                    "height": "7.99",
+                    "text": "Cheran maanagar, Vilankurichi Post",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "232.91",
+                    "width": "42.92",
+                    "height": "7.99",
+                    "text": "Coimbatore",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "244.16",
+                    "width": "66.70",
+                    "height": "7.99",
+                    "text": "641035 Tamilnadu",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "255.41",
+                    "width": "17.63",
+                    "height": "7.99",
+                    "text": "India",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "44.10",
+                    "y": "266.66",
+                    "width": "94.47",
+                    "height": "7.99",
+                    "text": "GSTIN 33ABCCS2113A1Z9",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "188.18",
+                    "y": "290.78",
+                    "width": "16.56",
+                    "height": "7.99",
+                    "text": "HSN",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast",
+                          "companyName"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "357.64",
+                    "y": "288.53",
+                    "width": "20.34",
+                    "height": "7.99",
+                    "text": "CGST",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "452.63",
+                    "y": "288.53",
+                    "width": "19.82",
+                    "height": "7.99",
+                    "text": "SGST",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "48.15",
+                    "y": "300.23",
+                    "width": "5.59",
+                    "height": "7.99",
+                    "text": "#",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "67.54",
+                    "y": "300.23",
+                    "width": "71.44",
+                    "height": "7.99",
+                    "text": "Item & Description",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "188.18",
+                    "y": "300.23",
+                    "width": "19.08",
+                    "height": "7.99",
+                    "text": "/SAC",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "253.16",
+                    "y": "300.23",
+                    "width": "14.23",
+                    "height": "7.99",
+                    "text": "Qty",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "296.85",
+                    "y": "300.23",
+                    "width": "17.96",
+                    "height": "7.99",
+                    "text": "Rate",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "356.33",
+                    "y": "300.98",
+                    "width": "7.33",
+                    "height": "7.99",
+                    "text": "%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "394.84",
+                    "y": "300.98",
+                    "width": "16.20",
+                    "height": "7.99",
+                    "text": "Amt",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "451.05",
+                    "y": "300.98",
+                    "width": "7.33",
+                    "height": "7.99",
+                    "text": "%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "489.56",
+                    "y": "300.98",
+                    "width": "16.20",
+                    "height": "7.99",
+                    "text": "Amt",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "530.17",
+                    "y": "300.23",
+                    "width": "30.46",
+                    "height": "7.99",
+                    "text": "Amount",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "48.68",
+                    "y": "312.68",
+                    "width": "4.51",
+                    "height": "7.99",
+                    "text": "1",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "66.04",
+                    "y": "312.68",
+                    "width": "42.55",
+                    "height": "7.99",
+                    "text": "Asus laptop",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "186.68",
+                    "y": "312.68",
+                    "width": "18.03",
+                    "height": "7.99",
+                    "text": "8471",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "253.43",
+                    "y": "312.68",
+                    "width": "15.48",
+                    "height": "7.99",
+                    "text": "1.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "decimal",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "280.84",
+                    "y": "312.68",
+                    "width": "35.48",
+                    "height": "7.99",
+                    "text": "50,000.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "352.31",
+                    "y": "312.68",
+                    "width": "11.36",
+                    "height": "7.99",
+                    "text": "9%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "380.06",
+                    "y": "312.68",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "3,813.56",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "447.04",
+                    "y": "312.68",
+                    "width": "11.36",
+                    "height": "7.99",
+                    "text": "9%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "474.79",
+                    "y": "312.68",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "3,813.56",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "526.65",
+                    "y": "312.68",
+                    "width": "35.48",
+                    "height": "7.99",
+                    "text": "50,000.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "321.90",
+                    "width": "69.07",
+                    "height": "7.99",
+                    "text": "X1500EA-EJ522WS",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "255.41",
+                    "y": "321.90",
+                    "width": "13.50",
+                    "height": "7.99",
+                    "text": "box",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "companyName"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "331.13",
+                    "width": "108.15",
+                    "height": "7.99",
+                    "text": "Intel® i5-1135G7 / 8GB DDR4",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "340.35",
+                    "width": "94.26",
+                    "height": "7.99",
+                    "text": "/ / 512GB PCIe® 3.0 SSD /",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "349.57",
+                    "width": "105.99",
+                    "height": "7.99",
+                    "text": "15.6-inch / FHD (1920 x 1080)",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "358.80",
+                    "width": "71.89",
+                    "height": "7.99",
+                    "text": "16:9 aspect ratio / /",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "368.03",
+                    "width": "100.63",
+                    "height": "7.99",
+                    "text": "Intel Iris X Graphics / / Indie",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "377.25",
+                    "width": "110.06",
+                    "height": "7.99",
+                    "text": "Black / / / Chiclet Keyboard /",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "386.48",
+                    "width": "96.97",
+                    "height": "7.99",
+                    "text": "Windows 11 Home / Office",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "395.70",
+                    "width": "87.74",
+                    "height": "7.99",
+                    "text": "Home and Student 2021",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "414.15",
+                    "width": "107.17",
+                    "height": "7.99",
+                    "text": "X1500EA-EJ522WS(X1500EA)",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "423.38",
+                    "width": "73.64",
+                    "height": "7.99",
+                    "text": "N5N0CV10M92621F",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "48.68",
+                    "y": "434.85",
+                    "width": "4.51",
+                    "height": "7.99",
+                    "text": "2",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "66.04",
+                    "y": "434.85",
+                    "width": "73.87",
+                    "height": "7.99",
+                    "text": "Lenovo All in one PC",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "186.68",
+                    "y": "434.85",
+                    "width": "18.03",
+                    "height": "7.99",
+                    "text": "8471",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "253.43",
+                    "y": "434.85",
+                    "width": "15.48",
+                    "height": "7.99",
+                    "text": "1.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "decimal",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "280.84",
+                    "y": "434.85",
+                    "width": "35.48",
+                    "height": "7.99",
+                    "text": "65,500.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "352.31",
+                    "y": "434.85",
+                    "width": "11.36",
+                    "height": "7.99",
+                    "text": "9%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "380.06",
+                    "y": "434.85",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "4,995.76",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "447.04",
+                    "y": "434.85",
+                    "width": "11.36",
+                    "height": "7.99",
+                    "text": "9%",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "474.79",
+                    "y": "434.85",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "4,995.76",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "526.65",
+                    "y": "434.85",
+                    "width": "35.48",
+                    "height": "7.99",
+                    "text": "65,500.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "444.07",
+                    "width": "98.50",
+                    "height": "7.99",
+                    "text": "i5 12th -12450H,16Gb Ram,",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "255.41",
+                    "y": "444.07",
+                    "width": "13.50",
+                    "height": "7.99",
+                    "text": "box",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "companyName"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "453.30",
+                    "width": "103.79",
+                    "height": "7.99",
+                    "text": "500Gb nvme Ssd, 27” IPS,win",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "462.53",
+                    "width": "43.59",
+                    "height": "7.99",
+                    "text": "11 and MSO",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "480.98",
+                    "width": "60.84",
+                    "height": "7.99",
+                    "text": "SN:FOGJOOFSIN",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "66.04",
+                    "y": "490.20",
+                    "width": "77.21",
+                    "height": "7.99",
+                    "text": "MTM No. MP2DVSOP",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "387.53",
+                    "y": "504.30",
+                    "width": "80.05",
+                    "height": "7.99",
+                    "text": "Total Taxable Amount",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "525.15",
+                    "y": "504.30",
+                    "width": "35.48",
+                    "height": "7.99",
+                    "text": "97,881.36",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "511.80",
+                    "width": "52.71",
+                    "height": "7.99",
+                    "text": "Total In Words",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "425.63",
+                    "y": "516.53",
+                    "width": "41.98",
+                    "height": "7.99",
+                    "text": "CGST9 (9%)",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "529.65",
+                    "y": "516.53",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "8,809.32",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "45.60",
+                    "y": "521.03",
+                    "width": "228.64",
+                    "height": "7.99",
+                    "text": "Indian Rupee One Lakh Fifteen Thousand Five Hundred Only",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst",
+                          "personNameLast"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "426.34",
+                    "y": "528.75",
+                    "width": "41.28",
+                    "height": "7.99",
+                    "text": "SGST9 (9%)",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "529.65",
+                    "y": "528.75",
+                    "width": "30.97",
+                    "height": "7.99",
+                    "text": "8,809.32",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "number",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "447.38",
+                    "y": "540.98",
+                    "width": "20.25",
+                    "height": "7.99",
+                    "text": "Total",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "companyName"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "fontStyle": "Bold",
+                    "x": "513.86",
+                    "y": "540.98",
+                    "width": "46.74",
+                    "height": "7.99",
+                    "text": "₹1,15,500.00",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "550.69",
+                    "width": "91.37",
+                    "height": "7.99",
+                    "text": "Thanks for your business.",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "9.0",
+                    "fontStyle": "Bold",
+                    "x": "414.34",
+                    "y": "553.39",
+                    "width": "53.25",
+                    "height": "9.00",
+                    "text": "Balance Due",
+                    "meta": {
+                      "text": {
+                        "style": "h4",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "9.0",
+                    "fontStyle": "Bold",
+                    "x": "507.98",
+                    "y": "553.39",
+                    "width": "52.65",
+                    "height": "9.00",
+                    "text": "₹1,15,500.00",
+                    "meta": {
+                      "text": {
+                        "style": "h4",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "color": "#333333",
+                    "x": "45.60",
+                    "y": "574.91",
+                    "width": "70.60",
+                    "height": "7.99",
+                    "text": "Terms & Conditions",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "584.14",
+                    "width": "78.82",
+                    "height": "7.99",
+                    "text": "Validity Period 7 Days",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "593.36",
+                    "width": "77.18",
+                    "height": "7.99",
+                    "text": "Payment - Immediate",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "602.59",
+                    "width": "75.13",
+                    "height": "7.99",
+                    "text": "Payment to made on",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "611.81",
+                    "width": "193.58",
+                    "height": "7.99",
+                    "text": "Company name: M/s. Global infotech Communiication",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "621.04",
+                    "width": "172.15",
+                    "height": "7.99",
+                    "text": "Account name: Global Infotech Communiication",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "personNameFirst"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "630.26",
+                    "width": "36.27",
+                    "height": "7.99",
+                    "text": "Bank ICICI",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "639.49",
+                    "width": "117.87",
+                    "height": "7.99",
+                    "text": "Account number: 780605000071",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": [
+                          "phone"
+                        ]
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "648.71",
+                    "width": "84.65",
+                    "height": "7.99",
+                    "text": "IFSC code: ICIC0007806",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "8.0",
+                    "x": "45.60",
+                    "y": "657.94",
+                    "width": "69.43",
+                    "height": "7.99",
+                    "text": "Branch: Neelambur",
+                    "meta": {
+                      "text": {
+                        "style": "p",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "10.0",
+                    "x": "220.28",
+                    "y": "790.92",
+                    "width": "164.05",
+                    "height": "9.75",
+                    "text": "This is a Computer Generated Invoice",
+                    "meta": {
+                      "text": {
+                        "style": "h3",
+                        "type": "text",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
+              "column": [
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": ""
+                },
+                {
+                  "text": {
+                    "fontName": "Times",
+                    "fontSize": "6.0",
+                    "x": "557.96",
+                    "y": "809.82",
+                    "width": "3.38",
+                    "height": "6.00",
+                    "text": "1",
+                    "meta": {
+                      "text": {
+                        "style": "small",
+                        "type": "integer",
+                        "subTypes": []
+                      }
+                    }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+]}

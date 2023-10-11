@@ -1,0 +1,3 @@
+In this program, an array called myArray is created with some initial values. The unshift() method is then used to add a new element to the beginning of the array. The unshift() method can also be used to add multiple elements to the beginning of the array. The resulting array is logged to the console.
+
+Note that the unshift() method changes the original array and increases its length by the number of elements added. The unshift() method returns the new length of the array.
